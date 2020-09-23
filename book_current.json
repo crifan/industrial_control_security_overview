@@ -1,0 +1,19 @@
+{
+  "title": "工控安全概览",
+  "description": "整理信息安全领域内的工控安全的基本介绍，包括工控协议，工控协议测试脚本，工控产品，工控相关框架和工具等。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "industrial_control_security_overview"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/industrial_control_security_overview/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/industrial_control_security_overview/pdf/industrial_control_security_overview.pdf"
+    }
+  }
+}
