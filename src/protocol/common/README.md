@@ -8,7 +8,7 @@
 | Siemens S7 | TCP | 102 | 西门子PLC支持的通讯协议。属于第7层的协议，用于西门子设备之间进行交换数据，通过TSAP，可加载MPI,DP,以太网等不同物理结构总线或网络上，PLC一般可以通过封装好的通讯功能块实现。<br/>s7协议是SIEMENS s7协议族的标准通信协议，使用s7-应用接口的通信不依赖特定的总线系统。<br/>详见：[Siemens S7](https://book.crifan.com/books/industrial_control_security_overview/website/protocol/common/siemens_s7.html)  | [port:102](https://www.zoomeye.org/searchResult?q=port:102) |
 | BACnet | TCP/UDP ? | 47808 | 楼宇自动控制网络数据通讯协议。楼宇自动控制网络数据通讯协议（A Data Communication Protocol for Building Automation and Control Networks）。BACnet 协议是为计算机控制采暖、制冷、空调HVAC系统和其他建筑物设备系统定义服务和协议。<br/>楼宇自动控制网络数据通讯协议(BACnet)是针对采暖、通风、空调、制冷控制设备所设计，同时也为其他楼宇控制系统（例如照明、安保、消防等系统）的集成提供一个基本原则。 | [port:47808](https://www.zoomeye.org/searchResult?q=port:47808) |
 | ATG | TCP | 10001 | ATG，油罐液位仪，一种储油罐的监测设备；ATG（Automated-Tank-Gauge）协议是液位仪器的私有通讯协议 | [port:10001](https://www.zoomeye.org/searchResult?q=port:10001) |
-| `IEC 104`=`IEC 60870-5-104` | TCP | 2404 | 输配电通讯协议。`IEC 60870-5-104`是国际电工委员会制定的一个规范，用于适应和引导电力系统调度自动化的发展，规范调度自动化及远动设备的技术性能。 | [port:2404](https://www.zoomeye.org/searchResult?q=port:2404) |
+| `IEC 104`| TCP | 2404 | 输配电通讯协议。`IEC 104`=`IEC 60870-5-104`是国际电工委员会制定的一个规范，用于适应和引导电力系统调度自动化的发展，规范调度自动化及远动设备的技术性能。 | [port:2404](https://www.zoomeye.org/searchResult?q=port:2404) |
 | `DNP3`=`DNP 3.0` | TCP/UDP | 20000 | `DNP`=`Distributed Network Protocol`=`分布式网络协议` 是一种应用于自动化组件之间的通讯协议，常见于电力、水处理等行业。分布式网络协议，主要用于电力行业。SCADA可以使用DNP协议与主站、RTU、及IED进行通讯。 <br/>简化OSI模型，只包含了物理层，数据层与应用层的体系结构（EPA）| [port:20000](https://www.zoomeye.org/searchResult?q=port:20000) |
 | ICCP |  |  | 电力控制中心通讯协议 | |
 | OPC | | | 过程控制的OLE （OLE for Process Control）。OPC包括一整套接口、属性和方法的标准集，用于过程控制和制造业自动化系统 | |
@@ -86,3 +86,4 @@
 | foxboro | TCP | 20476 | Foxboro是一种私有协议，用于Foxboro PLC的通讯，常见于电力、石油、化工等行业 | |
 | ilon-smartserver | TCP | 1628 | ILON-SMARTSERVER协议是ECHELON公司生产的iLon系列产品的私有通信协议，iLon系列产品可以广泛的应用于工业控制领域；iLon SmartServer类似于一台服务器，起着指令分发，数据存储等作用 | |
 |  |  |  |  | |
+
