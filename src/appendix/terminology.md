@@ -11,3 +11,4 @@
   * `MIS`=`Management Information System`=`管理信息系统`
   * `SIS`=`Supervisory Information System`=`生产过程自动化监控和管理系统`
   * `MES`=`制造执行管理系统`
+  * Nday漏洞问题
