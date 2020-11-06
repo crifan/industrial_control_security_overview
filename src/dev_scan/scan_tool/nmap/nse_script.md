@@ -1,7 +1,7 @@
-# 工控协议NSE测试脚本
+# nmap的nse脚本
 
 * NSE脚本
-  * 是什么：nmap的脚本
+  * 是什么：nmap的扫描测试脚本
   * 作用
     * 用于扫码相关协议的设备
   * 意义
@@ -54,7 +54,7 @@
 | mop-discover.nse | null | Detect the Maintenance Operation Protocol (MOP) by sending layer 2 DEC DNA Remote Console hello/test messages |
 | stuxnet-detect.nse | 445 | Detects whether a host is infected with the Stuxnet worm |
 
-## 脚本测试举例
+## 脚本测试使用举例
 
 ### Ethernet/IP 44818
 
@@ -62,7 +62,7 @@
 nmap -p 44818 --script enip-enumerate.nse 85.132.179.*
 ```
 
-![nmap_nse_44818_enip](../assets/img/nmap_nse_44818_enip.png)
+![nmap_nse_44818_enip](../../assets/img/nmap_nse_44818_enip.png)
 
 ### Modbus 502
 
@@ -70,7 +70,7 @@ nmap -p 44818 --script enip-enumerate.nse 85.132.179.*
 nmap --script modicon-info.nse -Pn -p 502 -sV 91.83.43.*
 ```
 
-![nmap_nse_502_modicon](../assets/img/nmap_nse_502_modicon.png)
+![nmap_nse_502_modicon](../../assets/img/nmap_nse_502_modicon.png)
 
 ### IEC 61870-5-101/104 2404
 
@@ -78,7 +78,7 @@ nmap --script modicon-info.nse -Pn -p 502 -sV 91.83.43.*
 nmap -Pn -n -d --script iec-identify.nse --script-args=iec-identify -p 2404 80.34.253.*
 ```
 
-![nmap_nse_2404_iec_104](../assets/img/nmap_nse_2404_iec_104.png)
+![nmap_nse_2404_iec_104](../../assets/img/nmap_nse_2404_iec_104.png)
 
 ### Siemens S7 102
 
@@ -86,7 +86,7 @@ nmap -Pn -n -d --script iec-identify.nse --script-args=iec-identify -p 2404 80.3
 nmap -p 102 --script s7-enumerate -sV 140.207.152.*
 ```
 
-![nmap_nse_102_s7](../assets/img/nmap_nse_102_s7.png)
+![nmap_nse_102_s7](../../assets/img/nmap_nse_102_s7.png)
 
 和：
 
@@ -94,7 +94,7 @@ nmap -p 102 --script s7-enumerate -sV 140.207.152.*
 nmap -d --script mms-identify.nse --script-args='mms-identify.timeout=500' -p 102 IP
 ```
 
-![nmap_nse_102_mms](../assets/img/nmap_nse_102_mms.png)
+![nmap_nse_102_mms](../../assets/img/nmap_nse_102_mms.png)
 
 ### Tridium Niagara Fox 1911
 
@@ -102,4 +102,4 @@ nmap -d --script mms-identify.nse --script-args='mms-identify.timeout=500' -p 10
 nmap -p 1911 --script fox-info 99.55.238.*
 ```
 
-![nmap_nse_1911_fox](../assets/img/nmap_nse_1911_fox.png)
+![nmap_nse_1911_fox](../../assets/img/nmap_nse_1911_fox.png)

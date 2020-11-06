@@ -11,4 +11,3 @@
 * `eimgfs`
   * nlitsme/eimgfs: Tool for editting Windows CE/Mobile firmware images.
     * https://github.com/nlitsme/eimgfs
-
