@@ -60,4 +60,12 @@
 * [政策解读《工业互联网企业网络安全分类分级指南（试行）》 - 知乎](https://zhuanlan.zhihu.com/p/101976720)
 * [工业互联网平台安全的思考 - 安全内参 | 决策者的网络安全知识库](https://www.secrss.com/articles/17574)
 * [工业互联网安全“三大痛点”如何破解———周鸿祎委员开出一剂药方 - 中国日报网](http://china.chinadaily.com.cn/2018-03/06/content_35795592.htm)
+* [嵌入式设备漏洞研究员](https://job.kanxue.com/position-read-576.htm)
+* [ReFirmLabs/binwalk: Firmware Analysis Tool](https://github.com/ReFirmLabs/binwalk)
+* [Binwalk工具的详细使用说明_运维_子曰小玖的博客-CSDN博客](https://blog.csdn.net/wxh0000mm/article/details/85683661)
+* [binwalk windows安装和使用方法 - pcat - 博客园](https://www.cnblogs.com/pcat/p/5256288.html)
+* [自动提取文件系统---binwalk(一） - blacksunny - 博客园](https://www.cnblogs.com/blacksunny/p/7214522.html)
+* [Binwalk：固件分析利器 – ArkTeam](http://www.arkteam.net/?p=2677)
+* [Binwalk | Penetration Testing Tools](https://tools.kali.org/forensics/binwalk)
+* [BinWalk安装和命令参数详解 - 云+社区 - 腾讯云](https://cloud.tencent.com/developer/article/1515285)
 * 
