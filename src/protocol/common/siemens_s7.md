@@ -1,6 +1,6 @@
 # Siemens S7
 
-* `S7Comm`协议
+* `Siemens S7`=`S7Comm`=`西门子S7`(协议)
   * 介绍
     * 德国西门子公司生产的`PLC`与`SCADA`系统进行通信的私有协议
     * `S7`被封装在`TPKT`和`ISO-COTP`协议中，基于 TCP 协议， S7 的协议传输单元能够通过 TCP 传送

@@ -68,4 +68,13 @@
 * [Binwalk：固件分析利器 – ArkTeam](http://www.arkteam.net/?p=2677)
 * [Binwalk | Penetration Testing Tools](https://tools.kali.org/forensics/binwalk)
 * [BinWalk安装和命令参数详解 - 云+社区 - 腾讯云](https://cloud.tencent.com/developer/article/1515285)
+* [灯塔实验室 - 团队出品](https://plcscan.org/products.html)
+* [知风-互联网联网工控资产与企业分析系统](https://zhifeng.io/about)
+* [【关注】2018年工业信息安全技能大赛西部赛区十强诞生！](https://mp.weixin.qq.com/s/-39iLqq5JEAU6v49zx1-eA)
+* [安全设备的漏洞挖掘-智能设备-看雪论坛-安全社区|安全招聘|bbs.pediy.com](https://bbs.pediy.com/thread-267854.htm)
+* [[原创]固件安全之加载地址分析-智能设备-看雪论坛-安全社区|安全招聘|bbs.pediy.com](https://bbs.pediy.com/thread-267719.htm)
+* [固件逆向中常用的小工具_MagicSong-CSDN博客](https://blog.csdn.net/song_lee/article/details/108574782)
+* [工控漏洞挖掘方法之固件逆向分析](https://paper.seebug.org/613/)
+* [iot初体验 摄像头固件提取 看雪论坛](https://bbs.pediy.com/thread-267185.htm)
+* [个人经验泛谈之工控安全入门 - panda | 热爱安全的理想少年](https://www.cnpanda.net/sec/592.html)
 * 

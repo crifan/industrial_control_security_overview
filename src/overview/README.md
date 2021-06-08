@@ -26,6 +26,39 @@
     * ![industrial_ctrl_security_overview](../assets/img/industrial_ctrl_security_overview.png)
     * ![industrial_ctrl_security_overall_trend](../assets/img/industrial_ctrl_security_overall_trend.png)
 
+## 工控安全子方向
+
+* 工控安全，其实也算是一个大的方向，其常见的具体的子方向包括
+  * 工控固件逆向
+    * 常涉及
+      * Flash
+        * 拆焊PCB版上的flash
+        * 用编程器读取固件二进制
+      * 架构
+        * ARM
+      * 系统
+        * Linux
+          * Linux kernel
+          * Linux文件系统加密
+          * uboot/grub
+        * Vxworks
+      * 固件
+        * （固件）启动/加载地址
+          * 魔数定位
+          * 指令定位
+        * 内存布局
+        * 中断表地址
+      * 分析工具
+        * 反汇编
+          * IDA PRO
+            * switch 跳转表
+          * Capstone
+        * binwalk
+        * rbasefind
+  * 工业网络数据分析
+  * 工控安全分析
+  * 工业信息安全检测评估
+
 ## 工控威胁和情报
 
 ### 相关机构及关系
