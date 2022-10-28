@@ -10,10 +10,10 @@
       ]
     },
     "sitemap-general": {
-      "prefix": "https://book.crifan.com/gitbook/industrial_control_security_overview/website/"
+      "prefix": "https://book.crifan.org/books/industrial_control_security_overview/website/"
     },
     "toolbar-button": {
-      "url": "http://book.crifan.com/books/industrial_control_security_overview/pdf/industrial_control_security_overview.pdf"
+      "url": "https://book.crifan.org/books/industrial_control_security_overview/pdf/industrial_control_security_overview.pdf"
     }
   }
 }

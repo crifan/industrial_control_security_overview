@@ -1,7 +1,7 @@
 # 工控安全概览
 
 * 最新版本：`v1.0`
-* 更新时间：`20210608`
+* 更新时间：`20221028`
 
 ## 简介
 
@@ -11,28 +11,30 @@
 
 本书的各种源码、在线浏览地址、多种格式文件下载如下：
 
-### Gitbook源码
+### HonKit源码
 
 * [crifan/industrial_control_security_overview: 工控安全概览](https://github.com/crifan/industrial_control_security_overview)
 
-#### 如何使用此Gitbook源码去生成发布为电子书
+#### 如何使用此HonKit源码去生成发布为电子书
 
-详见：[crifan/gitbook_template: demo how to use crifan gitbook template and demo](https://github.com/crifan/gitbook_template)
+详见：[crifan/honkit_template: demo how to use crifan honkit template and demo](https://github.com/crifan/honkit_template)
 
 ### 在线浏览
 
-* [工控安全概览 book.crifan.com](http://book.crifan.com/books/industrial_control_security_overview/website)
+* [工控安全概览 book.crifan.org](https://book.crifan.org/books/industrial_control_security_overview/website)
 * [工控安全概览 crifan.github.io](https://crifan.github.io/industrial_control_security_overview/website)
 
 ### 离线下载阅读
 
-* [工控安全概览 PDF](http://book.crifan.com/books/industrial_control_security_overview/pdf/industrial_control_security_overview.pdf)
-* [工控安全概览 ePub](http://book.crifan.com/books/industrial_control_security_overview/epub/industrial_control_security_overview.epub)
-* [工控安全概览 Mobi](http://book.crifan.com/books/industrial_control_security_overview/mobi/industrial_control_security_overview.mobi)
+* [工控安全概览 PDF](https://book.crifan.org/books/industrial_control_security_overview/pdf/industrial_control_security_overview.pdf)
+* [工控安全概览 ePub](https://book.crifan.org/books/industrial_control_security_overview/epub/industrial_control_security_overview.epub)
+* [工控安全概览 Mobi](https://book.crifan.org/books/industrial_control_security_overview/mobi/industrial_control_security_overview.mobi)
 
-## 版权说明
+## 版权和用途说明
 
-此电子书教程的全部内容，如无特别说明，均为本人原创和整理。其中部分内容参考自网络，均已备注了出处。如有发现侵犯您版权，请通过邮箱联系我 `admin 艾特 crifan.com`，我会尽快删除。谢谢合作。
+此电子书教程的全部内容，如无特别说明，均为本人原创。其中部分内容参考自网络，均已备注了出处。如发现有侵权，请通过邮箱联系我 `admin 艾特 crifan.com`，我会尽快删除。谢谢合作。
+
+各种技术类教程，仅作为学习和研究使用。请勿用于任何非法用途。如有非法用途，均与本人无关。
 
 ## 鸣谢
 
@@ -40,6 +42,6 @@
 
 ## 更多其他电子书
 
-本人`crifan`还写了其他`100+`本电子书教程，感兴趣可移步至：
+本人`crifan`还写了其他`150+`本电子书教程，感兴趣可移步至：
 
 [crifan/crifan_ebook_readme: Crifan的电子书的使用说明](https://github.com/crifan/crifan_ebook_readme)
